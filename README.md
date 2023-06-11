@@ -1,4 +1,4 @@
-## Pushing from our local environment to Github
+## How to Push your code to GitHub
 To push your code to GitHub, follow these steps:
 
 Initialize Git: Open a terminal or command prompt and navigate to your project directory. Use the git init command to initialize Git in that directory.
